@@ -9,10 +9,12 @@ Ele foi criado como um exercício de front-end, utilizando HTML, CSS e Font Awes
 ## 🖥️ Preview
 
 Você pode acessar a versão online do projeto aqui:
-**[>> Clique aqui para ver o Mapa de Carreira]([LINK-PARA-O-MAPA-ONLINE-COMO-GITHUB-PAGES-OU-NETLIFY])**
+**[>> Clique aqui para ver o Mapa de Carreira](https://karina1510.github.io/mapa-de-carreira)**
 
-![Preview do Projeto]([LINK-PARA-IMAGEM-PREVIEW.png])
-*(Dica: Tire um print da sua página e adicione a imagem nesta pasta para que ela apareça aqui)*
+
+<img width="1101" height="593" alt="image" src="https://github.com/user-attachments/assets/c6266317-369d-4209-9ae8-33e80c1afd38" />
+
+
 
 ---
 
@@ -49,4 +51,4 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 * **HTML5:** Para a estruturação semântica do conteúdo.
 * **CSS3:** Para estilização, layout (Flexbox/Grid) e design.
-*
+* **Java script:** Para colocar Funções dentro do mapa.
